@@ -22,9 +22,8 @@ Then I splited the data into training and testing sets.I have used Five Supervis
     2.K Nearest Neighbour
     3.Gaussian Naive Bayes
     4.Decision Tree
-    5.Support Vector Machines
+    5.Support Vector Machines.
 
-Decision Tree Classifier Performed efficiently with 100% Accuracy.
 
 If you have any suggestions feel free to contact me at amansaikrishnab@gmail.com
 
